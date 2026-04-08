@@ -2,6 +2,7 @@ import HeroSection from "@/components/HeroSection";
 import ProjectCard from "@/components/ProjectCard";
 import ExperienceSection from "@/components/ExperienceSection";
 import CertificationsSection from "@/components/CertificationsSection";
+import EducationSection from "@/components/EducationSection";
 import ContactForm from "@/components/ContactForm";
 import { motion } from "framer-motion";
 
