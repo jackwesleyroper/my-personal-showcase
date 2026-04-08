@@ -45,6 +45,7 @@ const Index = () => {
         </div>
       </section>
 
+      <ExperienceSection />
       <CertificationsSection />
       <ContactForm />
 
