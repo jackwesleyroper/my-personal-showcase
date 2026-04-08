@@ -7,14 +7,8 @@ const education = [
     period: "2001 – 2005",
   },
   {
-    qualification: "1 A-Level & 1 AS-Level",
-    institution: "Great Yarmouth College",
-    period: "2000 – 2001",
-  },
-  {
-    qualification: "4 A-Levels",
-    institution: "East Norfolk Sixth Form College",
-    period: "1998 – 2000",
+    qualification: "5 A-Levels",
+    period: "1998 – 2001",
   },
 ];
 
