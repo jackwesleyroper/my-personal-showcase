@@ -9,7 +9,7 @@ const certifications = [
   "Azure Virtual Desktop Specialty",
   "CKA: Certified Kubernetes Administrator",
   "HashiCorp Certified: Terraform Associate",
-  "HashiCorp Ambassador 2024",
+  "HashiCorp Ambassador",
   "AWS Certified Cloud Practitioner",
   "GitHub Actions Certified",
   "GitHub CoPilot Certified",
