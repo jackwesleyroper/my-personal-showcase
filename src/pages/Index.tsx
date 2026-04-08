@@ -2,6 +2,7 @@ import HeroSection from "@/components/HeroSection";
 import ProjectCard from "@/components/ProjectCard";
 import ExperienceSection from "@/components/ExperienceSection";
 import CertificationsSection from "@/components/CertificationsSection";
+import EducationSection from "@/components/EducationSection";
 import ContactForm from "@/components/ContactForm";
 import { motion } from "framer-motion";
 
@@ -47,6 +48,7 @@ const Index = () => {
 
       <ExperienceSection />
       <CertificationsSection />
+      <EducationSection />
       <ContactForm />
 
       <footer className="px-6 md:px-20 lg:px-32 py-8 border-t border-border flex items-center justify-between">
