@@ -8,7 +8,7 @@ const HeroSection = () => (
       transition={{ duration: 0.5 }}
       className="text-primary font-heading text-sm tracking-widest uppercase mb-4"
     >
-      Portfolio
+      Cloud & DevOps Engineer
     </motion.p>
     <motion.h1
       initial={{ opacity: 0, y: 30 }}
@@ -16,7 +16,7 @@ const HeroSection = () => (
       transition={{ duration: 0.6, delay: 0.1 }}
       className="font-heading text-5xl md:text-7xl lg:text-8xl font-bold tracking-tight leading-none mb-6"
     >
-      Alex Morgan
+      Jack Roper
     </motion.h1>
     <motion.p
       initial={{ opacity: 0, y: 30 }}
@@ -24,8 +24,8 @@ const HeroSection = () => (
       transition={{ duration: 0.6, delay: 0.2 }}
       className="text-muted-foreground font-body text-lg md:text-xl max-w-2xl leading-relaxed"
     >
-      Full-stack developer & designer crafting digital experiences that blend 
-      clean code with thoughtful design. I build products people love to use.
+      Azure Technical Lead at Avanade. Experienced Cloud & DevOps professional specialising in 
+      Azure architecture, Terraform, Kubernetes, and CI/CD. HashiCorp Ambassador and published technical author.
     </motion.p>
     <motion.div
       initial={{ opacity: 0 }}
