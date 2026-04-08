@@ -48,6 +48,7 @@ const Index = () => {
 
       <ExperienceSection />
       <CertificationsSection />
+      <EducationSection />
       <ContactForm />
 
       <footer className="px-6 md:px-20 lg:px-32 py-8 border-t border-border flex items-center justify-between">
