@@ -1,5 +1,6 @@
 import HeroSection from "@/components/HeroSection";
 import ProjectCard from "@/components/ProjectCard";
+import ExperienceSection from "@/components/ExperienceSection";
 import CertificationsSection from "@/components/CertificationsSection";
 import ContactForm from "@/components/ContactForm";
 import { motion } from "framer-motion";
@@ -44,6 +45,7 @@ const Index = () => {
         </div>
       </section>
 
+      <ExperienceSection />
       <CertificationsSection />
       <ContactForm />
 
