@@ -5,19 +5,19 @@ import { motion } from "framer-motion";
 
 const projects = [
   {
-    title: "CloudSync Dashboard",
-    description: "A real-time analytics dashboard for monitoring cloud infrastructure with live metrics and alerting.",
-    tags: ["React", "TypeScript", "D3.js"],
+    title: "Azure Cloud Transformation",
+    description: "Leading large-scale cloud infrastructure projects at Avanade, owning technical architecture and direction for enterprise clients.",
+    tags: ["Azure", "Terraform", "Kubernetes"],
   },
   {
-    title: "Nomad Travel App",
-    description: "Mobile-first travel planning platform with AI-powered itinerary suggestions and collaborative trip boards.",
-    tags: ["React Native", "Node.js", "GPT-4"],
+    title: "CI/CD Pipeline Architecture",
+    description: "Designing and implementing robust CI/CD pipelines using Azure DevOps, GitHub Actions, and GitLab for automated deployments.",
+    tags: ["Azure DevOps", "GitHub Actions", "GitLab"],
   },
   {
-    title: "Pulse Design System",
-    description: "An open-source component library with 50+ accessible components built for speed and consistency.",
-    tags: ["Figma", "Storybook", "Tailwind"],
+    title: "Technical Blog & Writing",
+    description: "Published technical articles featured by Microsoft and across the web, contributing to the HashiCorp Ambassador award.",
+    tags: ["Technical Writing", "HashiCorp", "Microsoft"],
   },
 ];
 
@@ -47,7 +47,7 @@ const Index = () => {
 
       <footer className="px-6 md:px-20 lg:px-32 py-8 border-t border-border">
         <p className="text-muted-foreground text-sm font-body">
-          © 2026 Alex Morgan. Built with care.
+          © 2026 Jack Roper. Built with care.
         </p>
       </footer>
     </div>
